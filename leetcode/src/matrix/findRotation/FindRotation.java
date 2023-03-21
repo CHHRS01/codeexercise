@@ -1,4 +1,4 @@
-package matrixRotation.findRotation;
+package matrix.findRotation;
 
 /**
  * 1886. 判断矩阵经轮转后是否一致

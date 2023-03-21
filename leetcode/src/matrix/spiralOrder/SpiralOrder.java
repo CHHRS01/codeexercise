@@ -1,4 +1,4 @@
-package matrixRotation.spiralOrder;
+package matrix.spiralOrder;
 
 import java.util.ArrayList;
 import java.util.List;

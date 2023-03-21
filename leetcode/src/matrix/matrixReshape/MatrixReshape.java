@@ -1,4 +1,4 @@
-package leetcode.matrixReshape;
+package matrix.matrixReshape;
 
 /**
  * 566. 重塑矩阵

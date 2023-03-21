@@ -1,4 +1,4 @@
-package leetcode.tree.nextGreaterElement;
+package tree.nextGreaterElement;
 
 import java.util.Arrays;
 import java.util.HashMap;

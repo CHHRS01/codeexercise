@@ -1,4 +1,4 @@
-package leetcode.tree.preorder;
+package tree.preorder;
 
 import entity.NNode;
 

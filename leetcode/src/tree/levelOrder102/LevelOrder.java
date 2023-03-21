@@ -1,4 +1,4 @@
-package leetcode.levelOrder102;
+package tree.levelOrder102;
 
 import entity.TreeNode;
 

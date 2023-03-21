@@ -1,4 +1,4 @@
-package matrixRotation.kClosest;
+package matrix.kClosest;
 
 import java.util.ArrayList;
 import java.util.Arrays;
